@@ -1,5 +1,7 @@
 # Tutorial: Using Jupyter at Jefferson Lab
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/JeffersonLab/jupyter_tutorial/master)
+
 This repository contains a self-paced tutorial for using Jupyter, the python notebook interface, for data analysis and visualization at Jefferson Lab.
 
 ## Getting Started
