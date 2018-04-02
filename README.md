@@ -15,7 +15,8 @@ This will expose the tutorial files to the file browser within jupyter.jlab.org.
 
 ## 1. Basic Functionality of Jupyter
 
-* Reading files and plotting data [(notebook)](1_Basics/read_root_files.ipynb)
+* Setting the user base directory and install user packages [(notebook)](1_Basics/setting-python-path.ipynb)
+* Reading files and plotting data [(notebook)](1_Basics/read-root-files.ipynb)
 
 ## Contributing
 
