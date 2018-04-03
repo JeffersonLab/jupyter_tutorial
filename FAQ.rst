@@ -1,5 +1,5 @@
-Tutorial: Using Jupyter at Jefferson Lab
-========================================
+Using Jupyter at Jefferson Lab!
+===============================
 
 Frequently Asked Questions about Jupyter at Jefferson Lab
 ---------------------------------------------------------
