@@ -10,6 +10,8 @@ Welcome to Jupyter Tutorial's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   CONTRIBUTING
+   FAQ
 
 
 Indices and tables
