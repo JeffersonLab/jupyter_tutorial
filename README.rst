@@ -3,9 +3,15 @@ Tutorial: Using Jupyter at Jefferson Lab
 
 |Binder| |Documentation Status|
 
+
+.. inclusion-marker-0-do-not-remove
+
 This repository contains a self-paced tutorial for using Jupyter, the
 python notebook interface, for data analysis and visualization at
 Jefferson Lab.
+
+
+.. inclusion-marker-1-do-not-remove
 
 Getting Started
 ---------------
@@ -21,11 +27,17 @@ over ssh:
 This will expose the tutorial files to the file browser within
 `jupyter.jlab.org <https://jupyter.jlab.org>`_.
 
+
+.. inclusion-marker-2-do-not-remove
+
 Full Documentation
 ------------------
 
 The complete documentation of this tutorial is avialable at
 `Read The Docs <http://jupyter-tutorial-at-jefferson-lab.readthedocs.io/en/latest/>`_.
+
+
+.. inclusion-marker-3-do-not-remove
 
 1. Basic Functionality of Jupyter
 ---------------------------------
@@ -42,6 +54,9 @@ The complete documentation of this tutorial is avialable at
    `(notebook) <2_TensorFlow/tensorflow-linear-regression-qweak-asymmetries-1dim.ipynb>`__
 -  Building a 6-D linear regression model of the Qweak asymmetry data
    `(notebook) <2_TensorFlow/tensorflow-linear-regression-qweak-asymmetries-6dim.ipynb>`__
+
+
+.. inclusion-marker-4-do-not-remove
 
 License
 ~~~~~~~
