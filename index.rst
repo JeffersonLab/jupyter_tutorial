@@ -5,17 +5,16 @@ Tutorial: Using Jupyter at Jefferson Lab!
   :start-after: inclusion-marker-1-do-not-remove
   :end-before:  inclusion-marker-2-do-not-remove
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
 .. include:: README.rst
   :start-after: inclusion-marker-2-do-not-remove
   :end-before:  inclusion-marker-4-do-not-remove
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
    CONTRIBUTING
    FAQ
-
 
 Indices and tables
 ==================
