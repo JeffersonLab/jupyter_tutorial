@@ -19,7 +19,7 @@ over ssh:
 - ``git clone https://github.com/JeffersonLab/jupyter_tutorial.git``
 
 This will expose the tutorial files to the file browser within
-`jupyter.jlab.org <https://jupyter.jlab.org>`.
+`jupyter.jlab.org <https://jupyter.jlab.org>`_.
 
 Full Documentation
 ------------------
