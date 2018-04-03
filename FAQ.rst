@@ -42,3 +42,8 @@ can then install packages using, for example:
 ::
 
     pip install --user --upgrade uproot
+
+Why can't I delete files or directories?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Due to security restrictions on the jupyter.jlab.org server, the attempts by jupyter to move deleted files to the trash folder fail. While JLab CC works on resolving this through the jupyter configuration, a work-around is to log in to an interactive node and delete the files or directories by hand. Their location is ``/group/jupyterusers/$USER``.
