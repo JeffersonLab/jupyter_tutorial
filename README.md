@@ -20,7 +20,8 @@ This will expose the tutorial files to the file browser within jupyter.jlab.org.
 
 ## 2. TensorFlow at Jefferson Lab
 
-* Building a linear regression model of the Qweak asymmetry data [(notebook)](2_TensorFlow/tensorflow-linear-regression-qweak-asymmetries.ipynb)
+* Building a 1-D linear regression model of the Qweak asymmetry data [(notebook)](2_TensorFlow/tensorflow-linear-regression-qweak-asymmetries-1dim.ipynb)
+* Building a 6-D linear regression model of the Qweak asymmetry data [(notebook)](2_TensorFlow/tensorflow-linear-regression-qweak-asymmetries-6dim.ipynb)
 
 ## Contributing
 
