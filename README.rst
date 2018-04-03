@@ -25,7 +25,7 @@ Full Documentation
 ------------------
 
 The complete documentation of this tutorial is avialable at
-`Read The Docs <http://jupyter-tutorial-at-jefferson-lab.readthedocs.io/en/latest/>`.
+`Read The Docs <http://jupyter-tutorial-at-jefferson-lab.readthedocs.io/en/latest/>`_.
 
 1. Basic Functionality of Jupyter
 ---------------------------------
