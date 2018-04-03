@@ -12,8 +12,11 @@ Getting Started
 
 The easiest way to get started is to clone this repository to your
 jupyter.jlab.org workspace by logging in to an interactive farm node
-over ssh: - ``ssh ifarm`` - ``cd /group/jupyterusers/$USER`` -
-``git clone https://github.com/JeffersonLab/jupyter_tutorial.git``
+over ssh:
+
+- ``ssh ifarm``
+- ``cd /group/jupyterusers/$USER``
+- ``git clone https://github.com/JeffersonLab/jupyter_tutorial.git``
 
 This will expose the tutorial files to the file browser within
 jupyter.jlab.org.
