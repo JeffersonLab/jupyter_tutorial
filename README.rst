@@ -19,7 +19,13 @@ over ssh:
 - ``git clone https://github.com/JeffersonLab/jupyter_tutorial.git``
 
 This will expose the tutorial files to the file browser within
-jupyter.jlab.org.
+`jupyter.jlab.org <https://jupyter.jlab.org>`.
+
+Full Documentation
+------------------
+
+The complete documentation of this tutorial is avialable at
+`Read The Docs <http://jupyter-tutorial-at-jefferson-lab.readthedocs.io/en/latest/>`.
 
 1. Basic Functionality of Jupyter
 ---------------------------------
