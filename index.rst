@@ -1,5 +1,5 @@
-Tutorial: Using Jupyter at Jefferson Lab!
-=========================================
+Using Jupyter at Jefferson Lab!
+===============================
 
 .. include:: README.rst
   :start-after: inclusion-marker-1-do-not-remove
